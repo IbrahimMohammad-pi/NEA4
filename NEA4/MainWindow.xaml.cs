@@ -39,7 +39,7 @@ namespace NEA4
         private Button zerob = new Button();
         private Button infoo = new Button();
         //not parametrised becuase i only have one picture on entire program.
-        private BitmapImage tablebitmap = new BitmapImage(new Uri(@"C:\IBurygrammar\NEA project\tabletopview.png"));
+        private BitmapImage tablebitmap = new BitmapImage(new Uri("tabletopview.png", UriKind.Relative));
 
         private Image tabletop = new Image();
 
