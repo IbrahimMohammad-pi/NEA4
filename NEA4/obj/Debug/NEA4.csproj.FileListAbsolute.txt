@@ -1,0 +1,17 @@
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\bin\Debug\NEA4.exe.config
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\bin\Debug\NEA4.exe
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\bin\Debug\NEA4.pdb
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4.csproj.AssemblyReference.cache
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\MainWindow.g.cs
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\Window1.g.cs
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\App.g.cs
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4_MarkupCompile.cache
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4_MarkupCompile.lref
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\MainWindow.baml
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\Window1.baml
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4.g.resources
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4.Properties.Resources.resources
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4.csproj.GenerateResource.cache
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4.csproj.CoreCompileInputs.cache
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4.exe
+C:\Users\imoha\personalgit\burygrammar\NEA4\NEA4\obj\Debug\NEA4.pdb
