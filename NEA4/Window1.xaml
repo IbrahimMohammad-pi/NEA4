@@ -1,0 +1,20 @@
+﻿<Window x:Name="infowindow" x:Class="NEA4.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NEA4"
+        mc:Ignorable="d"
+        Title="Window1" Height="400" Width="800">
+
+    <Grid x:Name="myGrid" Height="400" Width="800">
+        <Image Margin="259,95,352,109" Source="/IMG_5611.jpg" Stretch="Fill"/>
+        <TextBox FontSize="15" HorizontalAlignment="Left" Height="230" Margin="0,78,0,0" TextWrapping="Wrap" Text="In Snooker there are two players. First you pot a red. If you pot it, you get to pot a non red ball. If you pot that then you get to pot a red ball again and then continue the cycle till all the reds have been potted. Then you pot all the colour balls in order of value. If you miss a shot it is the other player's turn. Potting a ball corresponds with the balls value. Whoever has the highest score wins. " VerticalAlignment="Top" Width="254" />
+        <TextBox FontSize="16" HorizontalAlignment="Left" Height="27" Margin="64,40,0,0" TextWrapping="Wrap" Text="Rules of Snooker" VerticalAlignment="Top" Width="126"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="284,40,0,0" TextWrapping="Wrap" Text="Understanding collisions" VerticalAlignment="Top" Width="138"/>
+        <TextBox HorizontalAlignment="Left" Height="32" Margin="0,338,0,0" TextWrapping="Wrap" Text="RED=1  YELLOW=2 GREEN=3 BROWN=4 BLUE=5 PINK=6 BLACK=7  WHITE=-4" VerticalAlignment="Top" Width="433"/>
+        <Image Margin="453,35,49,35" Source="/Screenshot 2024-03-29 150959.png" Stretch="Fill"/>
+    </Grid>
+
+
+</Window>
