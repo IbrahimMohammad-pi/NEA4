@@ -39,8 +39,8 @@ namespace NEA4
         private Button zerob = new Button();
         private Button infoo = new Button();
         //not parametrised becuase i only have one picture on entire program.
-        private BitmapImage tablebitmap = new BitmapImage(new Uri("tabletopview.png", UriKind.Relative));
-
+        private BitmapImage tablebitmap = new BitmapImage(new Uri("pack://application:,,,/tabletopview.png", UriKind.Absolute));
+      //  private BitmapImage tablebitmap = new BitmapImage(new Uri("/tabletopview.png",UriKind.Relative));
         private Image tabletop = new Image();
 
         public MainWindow()

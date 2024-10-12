@@ -115,5 +115,8 @@
   <ItemGroup>
     <Resource Include="Screenshot 2024-03-29 150959.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="tabletopview.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
